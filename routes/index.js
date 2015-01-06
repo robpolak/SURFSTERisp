@@ -13,7 +13,7 @@ router.get('/scrabble/word/finder/cheat/solver/', function(req, res) {
 
 
 var sitemap = sm.createSitemap ({
-  hostname: 'http://example.com',
+  hostname: 'http://surfsterisp.com/',
   cacheTime: 600000,        // 600 sec - cache purge period
   urls: [
     { url: '/',  changefreq: 'monthly', priority: 0.3 },
